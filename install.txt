@@ -1,0 +1,7 @@
+Linux : 
+
+chmod +x allegro/lin/install-allegro
+allegro/lin/install-allegro
+make
+build/apps/exec
+
